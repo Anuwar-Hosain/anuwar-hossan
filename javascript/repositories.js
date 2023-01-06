@@ -7,7 +7,7 @@ const repoData = [
     id: "A1",
     title: "Donate-today",
     link: "https://anuwar-hosain.github.io/donate-site/", // Your Repositories Link
-    description: "Minifolio - Developer Portfolio",
+    description: "Donate-today - Donation Website",
     language: "HTML & CSS",
     circleClr: "js-color", // From ./src/input.css
     star: 1,
@@ -17,8 +17,7 @@ const repoData = [
     id: "A2",
     title: "Developer-portfolio",
     link: "https://www.linkedin.com/in/anuwar/", // Your Repositories Link
-    description:
-      "Qoals-clone is a copyed version of 'qoals.com'. I clone it's with Tailwindcss.",
+    description: "Developer Website",
     language: "HTML & CSS & JS",
     circleClr: "html-color",
     star: 1,
@@ -28,8 +27,7 @@ const repoData = [
     id: "A3",
     title: "Digital-Agency",
     link: "https://www.facebook.com/anuwarhosain570", // Your Repositories Link
-    description:
-      "Glyphsy - A bundle of glyphs in text formet. incluid of copy to clipbord",
+    description: "Agency Website",
     language: "CSS",
     circleClr: "css-color",
     star: 1,
@@ -39,8 +37,7 @@ const repoData = [
     id: "A4",
     title: "ERP System",
     link: "https://github.com/Anuwar-Hosain", // Your Repositories Link
-    description:
-      "'temcal' is a Temperature Converter which made with JavaScript.",
+    description: "Big ERP Systems",
     language: "CSS",
     circleClr: "css-color",
     star: 1,
